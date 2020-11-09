@@ -1,0 +1,4 @@
+apple: 5
+butter: 1
+cheese: 10
+zucchini: 10

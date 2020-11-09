@@ -1,0 +1,12 @@
+D:\Profiles\ajv6049\source\repos\groceryList\groceryList\bin\Debug\netcoreapp3.1\groceryList.exe
+D:\Profiles\ajv6049\source\repos\groceryList\groceryList\bin\Debug\netcoreapp3.1\groceryList.deps.json
+D:\Profiles\ajv6049\source\repos\groceryList\groceryList\bin\Debug\netcoreapp3.1\groceryList.runtimeconfig.json
+D:\Profiles\ajv6049\source\repos\groceryList\groceryList\bin\Debug\netcoreapp3.1\groceryList.runtimeconfig.dev.json
+D:\Profiles\ajv6049\source\repos\groceryList\groceryList\bin\Debug\netcoreapp3.1\groceryList.dll
+D:\Profiles\ajv6049\source\repos\groceryList\groceryList\bin\Debug\netcoreapp3.1\groceryList.pdb
+D:\Profiles\ajv6049\source\repos\groceryList\groceryList\obj\Debug\netcoreapp3.1\groceryList.AssemblyInfoInputs.cache
+D:\Profiles\ajv6049\source\repos\groceryList\groceryList\obj\Debug\netcoreapp3.1\groceryList.AssemblyInfo.cs
+D:\Profiles\ajv6049\source\repos\groceryList\groceryList\obj\Debug\netcoreapp3.1\groceryList.csproj.CoreCompileInputs.cache
+D:\Profiles\ajv6049\source\repos\groceryList\groceryList\obj\Debug\netcoreapp3.1\groceryList.dll
+D:\Profiles\ajv6049\source\repos\groceryList\groceryList\obj\Debug\netcoreapp3.1\groceryList.pdb
+D:\Profiles\ajv6049\source\repos\groceryList\groceryList\obj\Debug\netcoreapp3.1\groceryList.genruntimeconfig.cache
